@@ -35,6 +35,8 @@ Application Structure:
     - Otherwise, the program returns restaurants that have patio dining options. 
     - In both cases, the Zomato query is built using the coordinates and user inputs.
     
+Results: https://imgur.com/a/v2WaWg3?
+
 Notes: 
 
   - My application is simple in nature, as I am aiming to demonstrate the API funcionality specifically. 
